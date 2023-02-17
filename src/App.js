@@ -127,7 +127,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Youtube Tutorial</h1>
+      <h1>Connect Wallet</h1>
       {accounts.length ? (
         <>
           <p>{accounts}</p>
